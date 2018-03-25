@@ -1,6 +1,8 @@
-<?php
-$txt = "Hello world!";
-$x = 5;
-$y = 10.5;
- echo "<h1>Neeti Singh</h1>";
-?>
+<html>
+   <head>
+     <title>Hello Saurabh</title>
+   </head>
+   <body>
+      <h1 color="red">Hello Saurabh Jaiswal</h1>
+   </body>
+</html>
